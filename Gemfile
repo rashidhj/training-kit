@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-gem 'github-pages'
+gem 'github-pages', '>= 204'
 gem 'html-proofer'
 gem 'rack-contrib', '~> 1.2.0'
 gem 'rake'
-gem 'jekyll-octicons'
+gem 'jekyll-octicons', '>= 9.2.0'
